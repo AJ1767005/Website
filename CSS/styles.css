@@ -25,9 +25,37 @@ li a:hover {
 
 
 body {
-	background-color: red;
+	background-color: white;
 	margin:0;
 	padding:0;
 	text-align: center;
+	text-decoration-color: white;
 
+}
+#muted{
+	
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#title{
+	width:60%;
+}
+
+#img1 {
+	width:80%;
+}
+
+@charset "utf-8";
+#canvas
+{
+border:solid #000000;
+
+
+}
+
+#img4{
+	width:25%;
 }
